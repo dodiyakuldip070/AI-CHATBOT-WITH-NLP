@@ -22,3 +22,4 @@ The script defines a function chatbot_conversation() that initiates a loop for u
 This chatbot is built using Python and NLTK, a powerful library for natural language processing (NLP). It demonstrates the use of pattern matching and reflection-based response generation. This project serves as a foundational example of chatbot development, useful for beginners in NLP and AI-driven conversations.
 
 # OUTPUT OF THE TASK:
+![Image](https://github.com/user-attachments/assets/34e89bb1-60a8-4785-88ef-2a327c780421)
